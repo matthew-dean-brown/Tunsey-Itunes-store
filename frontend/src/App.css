@@ -1,0 +1,22 @@
+audio{
+    outline: none;
+}
+
+table{
+    width:100%;
+}
+body{
+    text-align: center;
+    background: cornflowerblue;
+}
+table,
+tr,
+td{
+    background-color: darkslateblue;
+    color: white;
+}
+
+h1{
+    color: antiquewhite;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
